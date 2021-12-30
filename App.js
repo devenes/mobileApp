@@ -9,7 +9,7 @@ import {
   Image,
   Alert,
   View,
-  SafeAreaView, //only for ios
+  SafeAreaView, //only for apple ios
   Button,
   Platform,
   Dimensions,
